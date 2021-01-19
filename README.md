@@ -15,6 +15,7 @@ Ex 2:
     "points":200,
     "transactionDate":"10/31 11AM"
 }
+
 I am assuming that 2nd transaction date is greater than 1st transaction date and 3rd transaction date is greater than 2nd transaction date and so on.
 
 3. Test deduction functionality from the endpoint on postman : http://localhost:5000/deductPoints
